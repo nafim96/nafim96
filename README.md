@@ -1,4 +1,4 @@
-<h1 align="center">Hey There My Gorgeous Friend 👋 Nasir</h1>
+<h1 align="center">Hey There My Gorgeous Friend 👋</h1>
 <h3 align="center">I'm Nasir, a Full Stack Web Application Developer from Bangladesh. I Spend most of time coding outstanding projects or learning new technology in the modern world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafim96&label=Profile%20views&color=0e75b6&style=flat" alt="nafim96" /> </p>
